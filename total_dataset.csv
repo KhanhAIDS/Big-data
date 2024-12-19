@@ -1,0 +1,141 @@
+Tên xe,Thương hiệu,Model,Năm sản xuất,Tình trạng,Số Km đã đi,Xuất xứ,Kiểu dáng,Hộp số,Động cơ,Số chỗ ngồi,Số cửa,Dẫn động,Giá thành
+ Lexus RX 300 F Sport - 2022,Lexus,RX,2022,Xe đã dùng,35000 Km,Nhập khẩu,SUV,Số tự động,Xăng  2.0 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 3 Tỷ 299 Triệu 
+ VinFast Lux SA 2.0 2.0 AT - 2021,VinFast,Lux SA 2.0,2021,Xe đã dùng,13196 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 735 Triệu 
+ Mercedes Benz S class S450 4Matic Luxury - 2022,Mercedes Benz,S class,2022,Xe đã dùng,15000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,5 chỗ,4 cửa,AWD - 4 bánh toàn thời gian, 4 Tỷ 699 Triệu 
+ Toyota Innova 2.0E - 2018,Toyota,Innova,2018,Xe đã dùng,121000 Km,Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 479 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2014,Toyota,Fortuner,2014,Xe đã dùng,120000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 435 Triệu 
+ BMW 4 Series 420i Gran Coupe - 2018,BMW,4 Series,2018,Xe đã dùng,46000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 99 Triệu 
+ Mercedes Benz GLC 300 4Matic - 2021,Mercedes Benz,GLC,2021,Xe đã dùng,60000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 1 Tỷ 779 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2019,Mitsubishi,Xpander,2019,Xe đã dùng,80000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 495 Triệu 
+ VinFast Lux A 2.0 Plus 2.0 AT - 2021,VinFast,Lux A 2.0,2021,Xe đã dùng,34000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 630 Triệu 
+ Chevrolet Cruze LTZ 1.8 AT - 2011,Chevrolet,Cruze,2011,Xe đã dùng,90000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 198 Triệu 
+ Ford Ranger XLS 2.0L 4x4 AT - 2022,Ford,Ranger,2022,Xe đã dùng,40000 Km,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 699 Triệu 
+ Toyota Vios E CVT - 2023,Toyota,Vios,2023,Xe đã dùng,22000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 459 Triệu 
+ Toyota Fortuner 2.4G 4x2 MT - 2019,Toyota,Fortuner,2019,Xe đã dùng,116000 Km,Nhập khẩu,SUV,Số tay,Dầu  2.4 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 735 Triệu 
+ Toyota Wigo 1.2 AT - 2020,Toyota,Wigo,2020,Xe đã dùng,17000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 335 Triệu 
+ Toyota Avanza Premio 1.5 AT - 2023,Toyota,Avanza,2023,Xe đã dùng,32000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 525 Triệu 
+ Mercedes Benz E class E300 AMG - 2022,Mercedes Benz,E class,2022,Xe đã dùng,8200 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 2 Tỷ 350 Triệu 
+ Toyota Veloz Cross 1.5 CVT - 2022,Toyota,Veloz,2022,Xe đã dùng,95000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 525 Triệu 
+ Honda City RS 1.5 AT - 2022,Honda,City,2022,Xe đã dùng,1700 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 535 Triệu 
+ Ford EcoSport Titanium 1.5L AT - 2019,Ford,EcoSport,2019,Xe đã dùng,81000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 435 Triệu 
+ VinFast Lux SA 2.0 2.0 AT - 2019,VinFast,Lux SA 2.0,2019,Xe đã dùng,67000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 650 Triệu 
+ Toyota Wigo 1.2 AT - 2020,Toyota,Wigo,2020,Xe đã dùng,17000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 335 Triệu 
+ Toyota Avanza Premio 1.5 AT - 2023,Toyota,Avanza,2023,Xe đã dùng,32000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 525 Triệu 
+ Mercedes Benz E class E300 AMG - 2022,Mercedes Benz,E class,2022,Xe đã dùng,8200 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 2 Tỷ 350 Triệu 
+ Toyota Veloz Cross 1.5 CVT - 2022,Toyota,Veloz,2022,Xe đã dùng,95000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 525 Triệu 
+ Honda City RS 1.5 AT - 2022,Honda,City,2022,Xe đã dùng,1700 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 535 Triệu 
+ Ford EcoSport Titanium 1.5L AT - 2019,Ford,EcoSport,2019,Xe đã dùng,81000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 435 Triệu 
+ VinFast Lux SA 2.0 2.0 AT - 2019,VinFast,Lux SA 2.0,2019,Xe đã dùng,67000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 650 Triệu 
+ Toyota Yaris 1.3 AT - 2007,Toyota,Yaris,2007,Xe đã dùng,110000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 208 Triệu 
+ Mitsubishi Outlander 2.0 CVT - 2023,Mitsubishi,Outlander,2023,Xe đã dùng,10000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 760 Triệu 
+ Toyota Zace DX - 1999,Toyota,Zace,1999,Xe đã dùng,70000 Km,Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 155 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2014,Toyota,Fortuner,2014,Xe đã dùng,120000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 435 Triệu 
+ BMW 4 Series 420i Gran Coupe - 2018,BMW,4 Series,2018,Xe đã dùng,46000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 99 Triệu 
+ Mercedes Benz GLC 300 4Matic - 2021,Mercedes Benz,GLC,2021,Xe đã dùng,60000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 1 Tỷ 779 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2019,Mitsubishi,Xpander,2019,Xe đã dùng,80000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 495 Triệu 
+ VinFast Lux A 2.0 Plus 2.0 AT - 2021,VinFast,Lux A 2.0,2021,Xe đã dùng,34000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 630 Triệu 
+ Chevrolet Cruze LTZ 1.8 AT - 2011,Chevrolet,Cruze,2011,Xe đã dùng,90000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 198 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2013,Toyota,Fortuner,2013,Xe đã dùng,130000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 405 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2022,Mitsubishi,Xpander,2022,Xe đã dùng,40000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 525 Triệu 
+ Toyota Camry 2.5Q - 2022,Toyota,Camry,2022,Xe đã dùng,30000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 230 Triệu 
+ Toyota Sienna Limited 3.5 - 2014,Toyota,Sienna,2014,Xe đã dùng,0 Km,Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 520 Triệu 
+ VinFast Lux SA 2.0 2.0 AT - 2019,VinFast,Lux SA 2.0,2019,Xe đã dùng,67000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 650 Triệu 
+ Toyota Yaris 1.3 AT - 2007,Toyota,Yaris,2007,Xe đã dùng,110000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 208 Triệu 
+ Mitsubishi Outlander 2.0 CVT - 2023,Mitsubishi,Outlander,2023,Xe đã dùng,10000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 760 Triệu 
+ Toyota Zace DX - 1999,Toyota,Zace,1999,Xe đã dùng,70000 Km,Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 155 Triệu 
+ VinFast Fadil 1.4 AT - 2020,VinFast,Fadil,2020,Xe đã dùng,50000 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 299 Triệu 
+ Nissan Navara VL Premium R - 2018,Nissan,Navara,2018,Xe đã dùng,100000 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 499 Triệu 
+ Kia Sorento GATH - 2018,Kia,Sorento,2018,Xe đã dùng,82000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 580 Triệu 
+ Bentley Flying Spur W12 - 2014,Bentley,Flying Spur,2014,Xe đã dùng,0 Km,Nhập khẩu,Sedan,Số tự động,Xăng  6.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 5 Tỷ 900 Triệu 
+ Hyundai Tucson 2.0 AT CRDi Đặc biệt - 2023,Hyundai,Tucson,2023,Xe đã dùng,29000 Km,Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 898 Triệu 
+ Kia Morning GT-Line - 2021,Kia,Morning,2021,Xe đã dùng,35000 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 358 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2013,Toyota,Fortuner,2013,Xe đã dùng,130000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 405 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2022,Mitsubishi,Xpander,2022,Xe đã dùng,40000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 525 Triệu 
+ Toyota Camry 2.5Q - 2022,Toyota,Camry,2022,Xe đã dùng,30000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 230 Triệu 
+ Toyota Sienna Limited 3.5 - 2014,Toyota,Sienna,2014,Xe đã dùng,0 Km,Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 520 Triệu 
+ Ford Everest Titanium 2.0L 4x2 AT - 2024,Ford,Everest,2024,Xe đã dùng,2000 Km,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 280 Triệu 
+ Audi A1 1.4 TFSI - 2010,Audi,A1,2010,Xe đã dùng,120000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.4 L,4 chỗ,3 cửa,FWD - Dẫn động cầu trước, 338 Triệu 
+ Ford Ranger Raptor 2.0L 4x4 AT - 2023,Ford,Ranger,2023,Xe đã dùng,30000 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 1 Tỷ 199 Triệu 
+ Toyota Camry 2.0Q - 2024,Toyota,Camry,2024,Xe đã dùng,11000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 179 Triệu 
+ Mercedes Benz S class S450L Luxury - 2018,Mercedes Benz,S class,2018,Xe đã dùng,68000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 389 Triệu 
+ Mitsubishi Attrage Premium 1.2 CVT - 2024,Mitsubishi,Attrage,2024,Xe mới,0,Nhập khẩu,Sedan,Số tự động,Xăng  1.2 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 455 Triệu 
+ VinFast Lux SA 2.0 2.0 AT - 2019,VinFast,Lux SA 2.0,2019,Xe đã dùng,67000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 650 Triệu 
+ Toyota Yaris 1.3 AT - 2007,Toyota,Yaris,2007,Xe đã dùng,110000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.3 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 208 Triệu 
+ Mitsubishi Outlander 2.0 CVT - 2023,Mitsubishi,Outlander,2023,Xe đã dùng,10000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 760 Triệu 
+ Toyota Zace DX - 1999,Toyota,Zace,1999,Xe đã dùng,70000 Km,Lắp ráp trong nước,SUV,Số tay,Xăng  1.8 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 155 Triệu 
+ VinFast Fadil 1.4 AT - 2020,VinFast,Fadil,2020,Xe đã dùng,50000 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.4 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 299 Triệu 
+ Nissan Navara VL Premium R - 2018,Nissan,Navara,2018,Xe đã dùng,100000 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.5 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 499 Triệu 
+ Kia Sorento GATH - 2018,Kia,Sorento,2018,Xe đã dùng,82000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 580 Triệu 
+ Bentley Flying Spur W12 - 2014,Bentley,Flying Spur,2014,Xe đã dùng,0 Km,Nhập khẩu,Sedan,Số tự động,Xăng  6.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 5 Tỷ 900 Triệu 
+ Hyundai Tucson 2.0 AT CRDi Đặc biệt - 2023,Hyundai,Tucson,2023,Xe đã dùng,29000 Km,Lắp ráp trong nước,Crossover,Số tự động,Dầu  2.0 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 898 Triệu 
+ Kia Morning GT-Line - 2021,Kia,Morning,2021,Xe đã dùng,35000 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 358 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2013,Toyota,Fortuner,2013,Xe đã dùng,130000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 405 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2022,Mitsubishi,Xpander,2022,Xe đã dùng,40000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 525 Triệu 
+ Toyota Camry 2.5Q - 2022,Toyota,Camry,2022,Xe đã dùng,30000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 230 Triệu 
+ Toyota Sienna Limited 3.5 - 2014,Toyota,Sienna,2014,Xe đã dùng,0 Km,Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 520 Triệu 
+ Ford Everest Titanium 2.0L 4x2 AT - 2024,Ford,Everest,2024,Xe đã dùng,2000 Km,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 280 Triệu 
+ Audi A1 1.4 TFSI - 2010,Audi,A1,2010,Xe đã dùng,120000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.4 L,4 chỗ,3 cửa,FWD - Dẫn động cầu trước, 338 Triệu 
+ Ford Ranger Raptor 2.0L 4x4 AT - 2023,Ford,Ranger,2023,Xe đã dùng,30000 Km,Nhập khẩu,Bán tải / Pickup,Số tự động,Dầu  2.0 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 1 Tỷ 199 Triệu 
+ Toyota Camry 2.0Q - 2024,Toyota,Camry,2024,Xe đã dùng,11000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 179 Triệu 
+ Mercedes Benz S class S450L Luxury - 2018,Mercedes Benz,S class,2018,Xe đã dùng,68000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  3.0 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 1 Tỷ 389 Triệu 
+ Mitsubishi Attrage Premium 1.2 CVT - 2024,Mitsubishi,Attrage,2024,Xe mới,0,Nhập khẩu,Sedan,Số tự động,Xăng  1.2 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 455 Triệu 
+ Toyota Land Cruiser VX.S 5.7 V8 - 2021,Toyota,Land Cruiser,2021,Xe đã dùng,30000 Km,Nhập khẩu,SUV,Số tự động,Xăng  5.7 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 7 Tỷ 890 Triệu 
+ Lexus LS 460L - 2008,Lexus,LS,2008,Xe đã dùng,100000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  4.6 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 680 Triệu 
+ Ford Everest Ambiente 2.0 4x2 AT - 2019,Ford,Everest,2019,Xe đã dùng,69000 Km,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 768 Triệu 
+ Peugeot 3008 Allure 1.6 AT - 2020,Peugeot,3008,2020,Xe đã dùng,40000 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 699 Triệu 
+ Ford Transit Premium - 2024,Ford,Transit,2024,Xe mới,0,Lắp ráp trong nước,Van/Minivan,Số tay,Dầu  2.3 L,16 chỗ,4 cửa,RFD - Dẫn động cầu sau, 979 Triệu 
+ Mercedes Benz C class C250 - 2013,Mercedes Benz,C class,2013,Xe đã dùng,120000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,RFD - Dẫn động cầu sau, 300 Triệu 
+ Mazda 6 Premium 2.0 AT - 2022,Mazda,6,2022,Xe đã dùng,45000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 695 Triệu 
+ Ford EcoSport Titanium 1.5L AT - 2015,Ford,EcoSport,2015,Xe đã dùng,10000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.5 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 318 Triệu 
+ Toyota Innova G 2.0 AT - 2021,Toyota,Innova,2021,Xe đã dùng,50000 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  2.0 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 685 Triệu 
+ Porsche Cayenne 3.6 V6 - 2016,Porsche,Cayenne,2016,Xe đã dùng,68000 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.6 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 2 Tỷ 170 Triệu 
+ VinFast VF7 Plus - 2024,VinFast,VF7,2024,Xe mới,0,Lắp ráp trong nước,SUV,Số tự động,Điện  0.3 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 808 Triệu 
+ Toyota Alphard 3.5 V6 - 2012,Toyota,Alphard,2012,Xe đã dùng,89000 Km,Nhập khẩu,Van/Minivan,Số tự động,Xăng  3.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 288 Triệu 
+ Mercedes Benz S class S450 4Matic - 2022,Mercedes Benz,S class,2022,Xe đã dùng,10000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  3.0 L,5 chỗ,4 cửa,AWD - 4 bánh toàn thời gian, 4 Tỷ 90 Triệu 
+ VinFast Lux SA 2.0 Premium 2.0 AT - 2020,VinFast,Lux SA 2.0,2020,Xe đã dùng,60000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 770 Triệu 
+ Ford Everest Ambiente 2.0 4x2 AT - 2019,Ford,Everest,2019,Xe đã dùng,68000 Km,Nhập khẩu,SUV,Số tự động,Dầu  2.0 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 745 Triệu 
+ Mitsubishi Xpander 1.5 AT - 2019,Mitsubishi,Xpander,2019,Xe đã dùng,80000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 485 Triệu 
+ Hyundai i10 Grand 1.2 MT Base - 2017,Hyundai,i10,2017,Xe đã dùng,150000 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.25 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 196 Triệu 
+ Toyota Fortuner 2.7V 4x2 AT - 2020,Toyota,Fortuner,2020,Xe đã dùng,0 Km,Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,RFD - Dẫn động cầu sau, 800 Triệu 
+ Nissan Sunny XL - 2013,Nissan,Sunny,2013,Xe đã dùng,158000 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 135 Triệu 
+ McLaren 720S Spider 4.0 V8 - 2020,McLaren,720S,2020,Xe đã dùng,34863 Km,Nhập khẩu,Convertible/Cabriolet,Số tự động,Xăng  4.0 L,2 chỗ,2 cửa,RFD - Dẫn động cầu sau, 18 Tỷ 800 Triệu 
+ Lexus RX 350L - 2022,Lexus,RX,2022,Xe đã dùng,11500 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,7 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 4 Tỷ 299 Triệu 
+ Toyota Corolla altis 1.8G AT - 2021,Toyota,Corolla altis,2021,Xe đã dùng,52000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 625 Triệu 
+ Kia Morning Luxury - 2019,Kia,Morning,2019,Xe đã dùng,56000 Km,Lắp ráp trong nước,Hatchback,Số tự động,Xăng  1.25 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 310 Triệu 
+ Suzuki Vitara 1.6 AT - 2016,Suzuki,Vitara,2016,Xe đã dùng,115000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.6 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 415 Triệu 
+ Toyota Avalon Limited Hybrid - 2013,Toyota,Avalon,2013,Xe đã dùng,100000 Km,Nhập khẩu,Sedan,Số tự động,Hybrid  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 90 Triệu 
+ Kia Sedona Platinum D - 2018,Kia,Sedona,2018,Xe đã dùng,80000 Km,Lắp ráp trong nước,Van/Minivan,Số tự động,Dầu  2.2 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 790 Triệu 
+ Ford Ranger Sport 2.0L 4x4 AT - 2024,Ford,Ranger,2024,Xe mới,0,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 864 Triệu 
+ Suzuki Swift GLX 1.2 AT - 2020,Suzuki,Swift,2020,Xe đã dùng,50000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 445 Triệu 
+ Kia Seltos Premium 1.4 AT - 2021,Kia,Seltos,2021,Xe đã dùng,45000 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 615 Triệu 
+ Toyota Camry 2.5Q - 2019,Toyota,Camry,2019,Xe đã dùng,60000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 885 Triệu 
+ Peugeot 3008 1.6 AT - 2019,Peugeot,3008,2019,Xe đã dùng,0 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 666 Triệu 
+ Mazda 3 1.5L Luxury - 2021,Mazda,3,2021,Xe đã dùng,48000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 555 Triệu 
+ Peugeot 5008 GT 1.6 AT - 2022,Peugeot,5008,2022,Xe đã dùng,39000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  1.6 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 940 Triệu 
+ Lexus GX 460 - 2020,Lexus,GX,2020,Xe đã dùng,29000 Km,Nhập khẩu,SUV,Số tự động,Xăng  4.6 L,7 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 5 Tỷ  
+ Honda CRV 2.4 AT - 2016,Honda,CRV,2016,Xe đã dùng,150000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.4 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 545 Triệu 
+ Mitsubishi Attrage 1.2 MT - 2024,Mitsubishi,Attrage,2024,Xe mới,0,Nhập khẩu,Sedan,Số tay,Xăng  1.2 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 346 Triệu 
+ Lexus RX 350 - 2022,Lexus,RX,2022,Xe đã dùng,30000 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 3 Tỷ 699 Triệu 
+ Kia Cerato 2.0 AT Premium - 2021,Kia,Cerato,2021,Xe đã dùng,50000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 535 Triệu 
+ Mitsubishi Xpander Cross 1.5 AT - 2021,Mitsubishi,Xpander,2021,Xe đã dùng,46000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 585 Triệu 
+ Toyota Prado GX 2.7 AT - 2004,Toyota,Prado,2004,Xe đã dùng,160000 Km,Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,4WD - Dẫn động 4 bánh, 375 Triệu 
+ Ford Ranger Sport 2.0L 4x4 AT - 2024,Ford,Ranger,2024,Xe mới,0,Lắp ráp trong nước,Bán tải / Pickup,Số tự động,Dầu  2.0 L,5 chỗ,4 cửa,4WD - Dẫn động 4 bánh, 864 Triệu 
+ Suzuki Swift GLX 1.2 AT - 2020,Suzuki,Swift,2020,Xe đã dùng,50000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.2 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 445 Triệu 
+ Kia Seltos Premium 1.4 AT - 2021,Kia,Seltos,2021,Xe đã dùng,45000 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.4 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 615 Triệu 
+ Toyota Camry 2.5Q - 2019,Toyota,Camry,2019,Xe đã dùng,60000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 885 Triệu 
+ VinFast Lux SA 2.0 Premium 2.0 AT - 2019,VinFast,Lux SA 2.0,2019,Xe đã dùng,50000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,7 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 715 Triệu 
+ Mercedes Benz Maybach GLS 600 4Matic - 2021,Mercedes Benz,GLS,2021,Xe đã dùng,45000 Km,Nhập khẩu,SUV,Số tự động,Xăng  4.0 L,4 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 8 Tỷ 980 Triệu 
+ Mercedes Benz GLC 300 4Matic - 2019,Mercedes Benz,GLC,2019,Xe đã dùng,80000 Km,Lắp ráp trong nước,SUV,Số tự động,Xăng  2.0 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 1 Tỷ 250 Triệu 
+ Honda Civic 1.8 AT - 2007,Honda,Civic,2007,Xe đã dùng,160000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 215 Triệu 
+ Hyundai Accent 1.4 MT Base - 2020,Hyundai,Accent,2020,Xe đã dùng,80963 Km,Lắp ráp trong nước,Sedan,Số tay,Xăng  1.4 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 298 Triệu 
+ Peugeot 408 GT 1.6 AT - 2023,Peugeot,408,2023,Xe đã dùng,10000 Km,Lắp ráp trong nước,Crossover,Số tự động,Xăng  1.6 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 1 Tỷ 150 Triệu 
+ Lexus RX 350 - 2022,Lexus,RX,2022,Xe đã dùng,30000 Km,Nhập khẩu,SUV,Số tự động,Xăng  3.5 L,5 chỗ,5 cửa,AWD - 4 bánh toàn thời gian, 3 Tỷ 699 Triệu 
+ Kia Cerato 2.0 AT Premium - 2021,Kia,Cerato,2021,Xe đã dùng,50000 Km,Lắp ráp trong nước,Sedan,Số tự động,Xăng  2.0 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 535 Triệu 
+ Mitsubishi Xpander Cross 1.5 AT - 2021,Mitsubishi,Xpander,2021,Xe đã dùng,46000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 585 Triệu 
+ Toyota Prado GX 2.7 AT - 2004,Toyota,Prado,2004,Xe đã dùng,160000 Km,Nhập khẩu,SUV,Số tự động,Xăng  2.7 L,7 chỗ,5 cửa,4WD - Dẫn động 4 bánh, 375 Triệu 
+ Lexus ES 250 - 2021,Lexus,ES,2021,Xe đã dùng,30000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  2.5 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 2 Tỷ 250 Triệu 
+ MG RX5 1.5T STD - 2024,MG,5,2024,Xe mới,0,Nhập khẩu,Crossover,Số tự động,Xăng  1.5 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 540 Triệu 
+ Toyota Corolla altis 1.8G - 2022,Toyota,Corolla altis,2022,Xe đã dùng,16000 Km,Nhập khẩu,Sedan,Số tự động,Xăng  1.8 L,5 chỗ,4 cửa,FWD - Dẫn động cầu trước, 665 Triệu 
+ Toyota Yaris 1.5 AT - 2012,Toyota,Yaris,2012,Xe đã dùng,110000 Km,Nhập khẩu,Hatchback,Số tự động,Xăng  1.5 L,5 chỗ,5 cửa,FWD - Dẫn động cầu trước, 295 Triệu 
+ Toyota Innova 2.0E - 2017,Toyota,Innova,2017,Xe đã dùng,101000 Km,Lắp ráp trong nước,Crossover,Số tay,Xăng  2.0 L,8 chỗ,5 cửa,RFD - Dẫn động cầu sau, 495 Triệu 
+ Toyota Veloz Cross 1.5 CVT - 2022,Toyota,Veloz,2022,Xe đã dùng,20000 Km,Nhập khẩu,SUV,Số tự động,Xăng  1.5 L,7 chỗ,5 cửa,FWD - Dẫn động cầu trước, 596 Triệu 
